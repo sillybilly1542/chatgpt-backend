@@ -38,4 +38,4 @@ app.get('/', (req, res) => {
   res.redirect('http://google.com');
 });
 
-app.listen(3000, () => console.log('Server running on http://localhost:3000'));
+app.listen(3000, () => console.log('server running on https://chatgpt-backend-yvz4.onrender.com'));
